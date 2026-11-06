@@ -1,0 +1,45 @@
+{
+  "response": {
+    "header": { "resultCode": "00", "resultMsg": "OK" },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "libCode": "MA0123",
+            "roomNo": "1",
+            "roomName": "제1열람실",
+            "totalSeats": "60",
+            "usedSeats": "42",
+            "laptopYn": "N",
+            "closeTime": "22:00",
+            "notice": "",
+            "updtDt": "20261105"
+          },
+          {
+            "libCode": "MA0123",
+            "roomNo": "2",
+            "roomName": "노트북열람실",
+            "totalSeats": "30",
+            "usedSeats": "30",
+            "laptopYn": "Y",
+            "closeTime": "18:00",
+            "notice": "정기 소독으로 18시에 닫습니다.",
+            "updtDt": "20261105"
+          },
+          {
+            "libCode": "MA0123",
+            "roomNo": "3",
+            "roomName": "어린이열람실",
+            "totalSeats": "24",
+            "usedSeats": "5",
+            "laptopYn": "N",
+            "closeTime": "",
+            "notice": "",
+            "updtDt": "20261105"
+          }
+        ]
+      },
+      "totalCount": "3"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": { "resultCode": "00", "resultMsg": "OK" },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "libCode": "MA0123",
+            "roomNo": "1",
+            "roomNm": "제1열람실",
+            "totalSeats": "60",
+            "usedSeats": "42",
+            "laptopYn": "N",
+            "closeTime": "22:00",
+            "notice": "",
+            "updtDt": "20261105"
+          }
+        ]
+      },
+      "totalCount": "1"
+    }
+  }
+}
